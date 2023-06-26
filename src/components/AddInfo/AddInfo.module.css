@@ -1,0 +1,61 @@
+.formInfo {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.formRow {
+  float: left;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.formRow h2 {
+  font-weight: 400;
+}
+
+.formLabels {
+  display: block;
+  width: 100%;
+}
+
+.formTextarea,
+.formInput {
+  width: 100%;
+  padding: 10px;
+}
+
+.newFormRow {
+  margin-top: 15px;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+  color: #fff;
+  background-color: #089fb3;
+  border: 1px solid #089fb3;
+  border-radius: 2%;
+}
+
+.newFormRow:hover {
+  background-color: #fff;
+  color: #089fb3;
+}
+
+.addedSkill {
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px 0;
+}
+
+.removeSkill {
+  float: right;
+  padding: 10px 5px;
+  font-size: 12px;
+  background-color: #fff;
+  border: 1px solid #eee;
+}
+
+.removeSkill:hover {
+  background-color: #c00c0c;
+  color: #fff;
+  cursor: pointer;
+}

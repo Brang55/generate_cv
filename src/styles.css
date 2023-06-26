@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.main {
+  margin: 20px 0;
+}

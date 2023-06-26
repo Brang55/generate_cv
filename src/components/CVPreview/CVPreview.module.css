@@ -1,0 +1,30 @@
+.previewSection {
+  float: left;
+  width: 100%;
+  padding: 20px;
+}
+
+.previewSection h3 {
+  width: 100%;
+  text-align: center;
+}
+
+.personalInfo {
+  float: left;
+  width: 100%;
+}
+
+.personalInfo .imgHolder {
+  float: left;
+  width: 30%;
+}
+
+.personalInfo .info {
+  float: left;
+  width: 70%;
+}
+
+.info h1 {
+  width: 100%;
+  text-align: center;
+}

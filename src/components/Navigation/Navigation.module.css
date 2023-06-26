@@ -1,0 +1,21 @@
+.navigation,
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menuItem {
+  color: #fff;
+  font-size: 20px;
+}
+
+.menuItem:hover a {
+  color: bisque;
+}
+
+.menuItem a {
+  display: block;
+  width: 100%;
+  padding: 10px 20px;
+}
